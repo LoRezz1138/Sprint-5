@@ -1,0 +1,36 @@
+***Thank you for the feedback! I've left comments regarding my updates below between asterisks***
+
+Hello Luke,
+
+Congratulations on completing another Tableau project! 🎉 Your consistent progress in mastering BI analysis concepts is impressive, and these are essential skills for any aspiring Data Analyst. Let’s go over the project deliverables and identify both the highlights and areas for potential improvement:
+
+Charts
+
+City Profits Map: The map looks very good. Additionally, you could use color to represent profit instead of region to make it clear which parts of the country have the highest profit points. It could be helpful to add percentages for each state. Additionally, you could add a filter for category or sub-category.
+
+***In the regional chart, the labels have been updated to display the percentage of total profits by region instead of the regional names, the color has been adjusted to show scale based on total profits, and the title has been updated. This provides a clearer understanding of each region's contribution to the overall profits.***
+
+Total Profit & Return Rate: The scatterplot and overall dashboard look very good. I like that the data points are color-coded for easy differentiation between product sub-categories. Great that you've added a linear regression line to provide an overview of the trend.
+Return Rate by Customer: Could you please add one? (Critical)
+
+***I created replaced the Return Rate by Product Category (redundant information) with a Return Rate by Customer ID bar graph. Sorted in decending order and color coded by overall return count.***
+
+Return Rate/Sales by Month:  The graphs that combine important information in one place look great. However in our data, we have information for multiple years. Could you please add a filter by year or specify the selected year(s) in the title? (Critical)
+
+*** I modified the Title for the "Sales and Return Rate by Month/Segment" worksheet to <Sheet Name> for <Year-Quarter.> so that the filter date would show in the title.***
+
+Mock Ups
+
+The mock-ups look great and provide a foundational structure for a dashboard focusing on monthly data trends.
+
+Dashboard
+
+Your dashboard looks good. I really like the explanation of visuals. Also that filters are applicable for all charts on it. Great that you've added filters  by date, segment and region. All these filters could be helpful for the dashboard user. 
+
+Presentation
+
+The overall narrative is excellent. It's great to see a clear and descriptive title for the presentation. Great that you've have separate slide for final conclusions.
+
+If you've got any questions, just drop them in a text file within the project, and I'll cover them in my feedback.
+
+See you soon!
